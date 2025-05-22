@@ -1,0 +1,16 @@
+{
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "category": "2",
+  "title": "One Piece Opening 12 Single - Kaze wo Sagashite",
+  "author": "Mari Yaguchi",
+  "disc": "0",
+  "music_name_index": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": []
+  }
+}
